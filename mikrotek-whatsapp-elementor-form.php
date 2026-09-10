@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Mikrotek WhatsApp Action for Elementor Form
- * Plugin URI: https://mikrotek.co.id
+ * Plugin URI: https://mzi.co.id
  * Description: Menambahkan Action After Submit ke WhatsApp pada widget Form Elementor Pro.
  * Version: 1.0.1
  * Author: Mikrotek
- * Author URI: https://mikrotek.co.id
+ * Author URI: https://mzi.co.id
  * Text Domain: mikrotek-wa-elementor
  * Domain Path: /languages
  * Requires at least: 5.8
